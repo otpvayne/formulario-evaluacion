@@ -16,4 +16,4 @@ Este proyecto es un ejemplo de formulario con validación básica usando JavaScr
 
 ## Autor
 
-Andrés Rodríguez Navarro
+Diego Medina
